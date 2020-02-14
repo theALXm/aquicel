@@ -28,7 +28,7 @@ public class PlayingState : State
 
     public override void Enter()
     {
-        Debug.Log("Entrando no estado: " + stateName);
+        Debug.Log("Entrando no estadoooooooooooooooo: " + stateName);
     }
     
     public override void Execute()
